@@ -1,0 +1,9 @@
+let namee="harshit"
+let age =24;
+console.log(typeof "harshit");
+console.log(typeof namee);
+console.log(typeof age);
+console.log(typeof 24);
+console.log(typeof null);
+console.log(typeof undefined);
+
